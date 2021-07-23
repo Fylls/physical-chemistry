@@ -1,0 +1,3 @@
+The experiment uses a calorimeter comprising a geo vessel, fitted with an electrically driven stirrer, and a highly accurate mercury thermometer.
+
+The calorimeter is well insulated from its surroundings, so when an exothermic reaction is carried out inside the calorimeter, the temperature rises.
