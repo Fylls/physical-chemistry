@@ -1,0 +1,14 @@
+(a) The step in a reaction mechanism that determines the rate of reaction
+rate-determining step
+
+
+(b) A reaction step that involves two molecules
+bimolecular
+
+
+(c) The rate of change of concentration of a reactive species, in a sequence of reactions is approximately zero
+steady state approximation
+
+
+(d) A highly unstable species
+ reactive intermediate
